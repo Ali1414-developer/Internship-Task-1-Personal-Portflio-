@@ -21,7 +21,7 @@ Technical skills section
 ![Project UI](Screenshots/Skills.png)
 
 Experience timeline
-![Project UI](Screenshots/Experience.png)
+
 
 Testimonials
 
