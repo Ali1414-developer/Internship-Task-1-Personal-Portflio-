@@ -12,13 +12,13 @@ Professional hero/intro section
 ![Project UI](Screenshots/Home.png)
 
 About & background information
-![Project UI](Screenshots/Background section.png)
+![Project UI](Screenshots/Back.png)
 
 Featured projects showcase
 ![Project UI](Screenshots/Projects.png)
 
 Technical skills section
-![Project UI](Screenshots/Skills section.png)
+![Project UI](Screenshots/Skills.png)
 
 Experience timeline
 ![Project UI](Screenshots/Experience.png)
