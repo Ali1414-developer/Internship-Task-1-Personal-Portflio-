@@ -12,20 +12,28 @@ Professional hero/intro section
 ![Project UI](Screenshots/Home.png)
 
 About & background information
+![Project UI](Screenshots/Background section.png)
 
 Featured projects showcase
+![Project UI](Screenshots/Projects.png)
 
 Technical skills section
+![Project UI](Screenshots/Skills section.png)
 
 Experience timeline
+![Project UI](Screenshots/Experience.png)
 
 Testimonials
 
+
 Blog section
+
 
 Achievements
 
+
 Contact form
+![Project UI](Screenshots/Contact.png)
 
 Designed with a modern UI, gradient theme, and responsive layout for all devices.
 
