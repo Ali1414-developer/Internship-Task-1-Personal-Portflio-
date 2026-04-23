@@ -9,6 +9,7 @@ Live Overview
 This portfolio includes:
 
 Professional hero/intro section
+![Project UI](Screenshots/Home.png)
 
 About & background information
 
